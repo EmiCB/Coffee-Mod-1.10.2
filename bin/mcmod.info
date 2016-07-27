@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "TheMod",
+    "name": "Coffee Mod",
+    "version": "1.0",
+    "mcversion": "1.10.2",
+    "description": "A mod that adds coffee for now. ;D",
+    "credits": "To the two kids iI'm trying so hard to teach (and failing).",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["EmiCB"],
+    "logoFile": "",
+    "screenshots": [],
+    "parent":"",
+    "dependencies": []
+  }
+]
