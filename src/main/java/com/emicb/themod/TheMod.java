@@ -1,5 +1,6 @@
 package com.emicb.themod;
 
+import com.emicb.themod.init.ModItems;
 import com.emicb.themod.proxy.IProxy;
 import com.emicb.themod.reference.Reference;
 
@@ -23,7 +24,7 @@ public class TheMod
 	@Mod.EventHandler
 	public void PreInit(FMLPreInitializationEvent event)
 	{
-		
+		ModItems.init();
 	}
 	
 	@Mod.EventHandler
